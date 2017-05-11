@@ -8,4 +8,3 @@ In case you want to see how it looks like follow the instructions:
 
 3.Open new tab and Voila!
 
-Link: https://kickas.github.io/Oreva-ver1.0/
