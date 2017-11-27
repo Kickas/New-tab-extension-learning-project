@@ -2,7 +2,7 @@
 	"manifest_version":2,
 	"name":"Oreva",
 	"description":"An awesome new tab",
-	"author" : "Vikas ch",
+	"author" : "Vikas Choudhary",
 	"homepage_url":"http://www.google.com",
 	"version":"1.0",
 	"chrome_url_overrides":{
